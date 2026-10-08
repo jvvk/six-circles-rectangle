@@ -11,6 +11,8 @@ Figures for a pure-geometry answer ([answer](https://mathoverflow.net/a/515659))
 
 All figures are drawn to scale from the configuration solved numerically to 50 digits.
 
+A shorter version of the proof, written up as a note with its checks, is in [mathematics/six-circles-rectangle](https://github.com/jvvk/mathematics/tree/main/six-circles-rectangle).
+
 ## Licence
 
 The figures are released under [CC BY 4.0](LICENSE).
